@@ -255,7 +255,7 @@
         <div class="thirdsWrapper">
         	<h1 class="sectionTitle">Leadership:</h1>
             <a href="http://www.gdsaucf.com" target="_blank"><div class="ContentContainerThirds">
-                <div class="thirdsTitle">Graphic Design Student Assoc. &raquo;</div>
+                <div class="thirdsTitle">Graphic Design S.A. &raquo;</div>
                 <p class="thirdsSubtitle" id="leadership"><span>President</span><br />2013 - 2015
                 </p>
         	</div></a>

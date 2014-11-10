@@ -147,19 +147,19 @@
 			<div class="floatClearer">
 				<article class="mainContent twoThirds left">
 					<div class="mainContentTitle">I've always stood by the idea that...</div>
-					<p class="mainContentCopy">We as designers have the power to better our industry by being involved in our local community. <b>The more ideas we can share with - and pick up from - others, the faster we can allow design to grow.</b> Users of everyday products and software depend on innovative and effective usability, as well as appropriate aesthetic. We can only achieve those goals through collaboration and exploration.  </p>
-                    <p class="mainContentCopy">As I get increasingly involved in the Orlando design and development scene, I feel constantly more aware of the trends and best practices around me. This is something that I plan on continuing to do throughout the development of my career as a graphic designer, web/ux developer, and video editor/motion graphics artist.</p>
+					<p class="mainContentCopy">We as designers have the power to better our industry by being involved in our local community. <b>The more ideas we can share and borrow from others, the faster we encourage design to grow.</b> Users of everyday products and software depend on innovative and effective usability, as well as appropriate aesthetic. We can only achieve those goals through collaboration and exploration.  </p>
+                    <p class="mainContentCopy">As I get increasingly involved in the Orlando design and development scene, I feel constantly more aware of the trends and best practices around me. This is something that I plan on continuing to do throughout the development of my career.</p>
 				</article>
 				<article class="sideQuoteContainer oneThird right">
-					<div class="sideQuote careers">"We don't understand the unabashed power of a community until we're part of one."</div>
+					<div class="sideQuote home">"We don't understand the unabashed power of a community until we're part of one."</div>
 				</article>
 			</div>
 			<div class="floatClearer">
 				<article class="mainContent twoThirds right">
 					<div class=" desktopOnly">
 						<div class="mainContentTitle">A recent thought...</div>
-						<p class="mainContentCopy">These past two years I've had the honor of serving as President of the <a href="http://www.gdsaucf.com" target="_blank">Graphic Design Student Association</a>, a registered organization at the University of Central Florida. I've gotten to know each and everyone of our members very well, and have been learning little by little a few of the differences between our design sub-cultures. I've come to realize that web designers come from a culture of crowd-sourcing - of collaboration, and versioning, and forking, and cloning, and merging, and forums, and tuts, etc. Pure graphic designers and illustrators are more often than not accustomed to a DIY attitude. This really has caught my attention. I feel that if we, as designers, opened ourselves to global collaboration and critique on our own projects, we might be able to unleash a level of creativity in ourselves beyond anything we ever thought ourselves capable of. </p>
-						<p class="mainContentCopy">So I reacted to this idea in a small, yet positive and actionable way. Along with two close friends in UCF's web program, I co-founded the <a href="https://www.facebook.com/mastersofwebUCF" target="_blank">Design + Code meetups</a>: a group that serves today as a sister organization to GDSA, gathering members from both programs to meet weekly and engage in open collaborations. <b>The intent is to bring new ideas to life faster, and to focus on building a stronger, more tight-knit design community at school.</b> I'm very excited about where this is going. Only time will tell. </p> <p><i>10/2014</i></p>
+						<p class="mainContentCopy">These past two years I've had the honor of serving as President of the <a href="http://www.gdsaucf.com" target="_blank">Graphic Design Student Association</a>, a registered organization at the University of Central Florida. I've gotten to know each and everyone of our members very well, and have been learning little by little a few of the differences between our design sub-cultures. I've come to realize that web developers come from a culture of crowd-sourcing - of collaboration, and versioning, and forking, and cloning, and merging, and forums, and tuts, etc. Pure graphic designers and illustrators are generally used to a DIY attitude. This really has caught my attention. </p>
+						<p class="mainContentCopy">So I reacted to this idea in a small, yet positive and actionable way. Along with two close friends in UCF's web program, I co-founded the <a href="https://www.facebook.com/mastersofwebUCF" target="_blank">Design + Code meetups</a>: a group that serves today as a sister organization to GDSA, gathering members from both programs to meet weekly and engage in open collaborations. <b>The intent is to bring new ideas to life faster, and to focus on building a stronger, more tight-knit design community at school.</b> I'm very excited about where this is going. Only time will tell. </p> <p><i>11/2014</i></p>
 					</div>
 				<a href="https://twitter.com/DesignerAndres" target="_blank">
 				<button type="button" class="contentButton">TWEET AT ME!</button>
@@ -174,7 +174,7 @@
         <div class="thirdsWrapper">
         	<h1 class="sectionTitle">My UCF Organizations:</h1>
             <a href="http://www.gdsaucf.com" target="_blank"><div class="ContentContainerThirds">
-                <div class="thirdsTitle">Graphic Design Student Assoc. &raquo;</div>
+                <div class="thirdsTitle">Graphic Design S.A. &raquo;</div>
                 <p class="thirdsSubtitle" id="leadership">
                 	<p><b>President</b><br />2013 - 2015</p>
                 	<p>Responsible for contacting and bringing community design presence to club meetings, in the form of local artists, designers, and developers.<br /><br />Also, in collaboration with officer team, responsible for the planning and executing of the following major club events:</p>

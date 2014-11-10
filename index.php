@@ -180,8 +180,8 @@
                     </div>
                 </div>	
                 <div class="content">
-                    <div class="thirdsTitle"><a href="http://www.google.com/webdesigner" target="_blank">Google Web Designer - Promo &raquo;</a></div>
-                    <div class="thirdsSubtitle" id="leadership">Featured on <a href="http://techcrunch.com/2014/08/05/googles-html5-web-designer-gets-animation-tools-deeper-adwords-and-doubleclick-integrations/" target="_blank">TechCrunch</a>, <a href="https://plus.google.com/116242822999984732184/posts/iwq4oGqgsfo" target="_blank">Google's Design blog, </a> and with over 35,000 views on <a href="https://www.youtube.com/watch?v=vTfJFf8f5eg" target="_blank"> Google Web Designer's YouTube Channel,</a> this is one of my favorite animations to date. I worked with several of Google's business lines to envision, and scope this clip. I created all graphics and animations myself. The soundtrack is part of the Youtube Music Library. Created with Adobe Illustrator, Photoshop, and After Effects. <span class="subcaption">2014.</span></div>
+                    <div class="thirdsTitle"><a href="http://www.google.com/webdesigner" target="_blank">Google Web Designer &raquo;</a></div>
+                    <p class="thirdsSubtitle" id="leadership">Featured on <a href="http://techcrunch.com/2014/08/05/googles-html5-web-designer-gets-animation-tools-deeper-adwords-and-doubleclick-integrations/" target="_blank">TechCrunch</a>, <a href="https://plus.google.com/116242822999984732184/posts/iwq4oGqgsfo" target="_blank">Google's Design blog, </a> and with over 35,000 views on <a href="https://www.youtube.com/watch?v=vTfJFf8f5eg" target="_blank"> Google Web Designer's YouTube Channel,</a> this is one of my favorite animations to date. I worked with several of Google's business lines to envision, and scope this clip. I created all graphics and animations myself. The soundtrack is part of the Youtube Music Library. Created with Adobe Illustrator, Photoshop, and After Effects. <span class="subcaption">2014.</span></p>
                 </div>
             </div>		
             <div class="ContentContainerThirds works" style="position: relative;">
@@ -192,9 +192,9 @@
                         <iframe id="iE8video" width="1280" height="720" src="http://www.youtube.com/embed/XKlBJmMYETM?rel=0&wmode=opaque" frameborder="0" allowfullscreen style="display:none; z-index:25 !important;"></iframe>
                     </div>
                 </div>	
-                <div class="content" style="min-height:370px;">
-                    <div class="thirdsTitle"><a href="http://www.youtube.com/user/designerAndres" target="_blank">DoubleClick by Google - Promo &raquo;</a></div>
-                    <div class="thirdsSubtitle" id="leadership"><span>One of my core projects while working at Google has been the scriptwriting, illustrating, and animating of a promotional video for Google's DoubleClick Studio dynamic creative platform. The video rolled out along with a revamped website whose target audience are creative agencies that partner with Google to advertise to millions of consumers worldwide. All graphics were created within PhotoShop and Illustrator and animated within After Effects. <span class="subcaption">2014.</span></span><br /></div>
+                <div class="content" style="min-height:400px;">
+                    <div class="thirdsTitle"><a href="http://www.youtube.com/user/designerAndres" target="_blank">DoubleClick by Google &raquo;</a></div>
+                    <p class="thirdsSubtitle" id="leadership"><span>One of my core projects while working at Google was the scriptwriting, illustrating, and animating of a promotional video for Google's DoubleClick Studio dynamic creative platform. The video rolled out along with a revamped website whose target audience are creative agencies that partner with Google to advertise to millions of consumers worldwide. All graphics were created within PhotoShop and Illustrator and animated within After Effects. <span class="subcaption">2014.</span></span><br /></p>
                     <a href="works.php" style="position:absolute;bottom:0;left:0;width:100%;">
                         <button type="button" class="contentButton homeButton">VIEW MORE WORKS</button>
                     </a>

@@ -1,10 +1,13 @@
 @charset "utf-8";
 /**************************************************************  CONFIGURATION  **************************************************************/
+@import url(http://fonts.googleapis.com/css?family=Roboto+Slab:700);
 * {
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
 	font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+    line-height: 1.4;
+    word-spacing: 0.04545em;
 	-webkit-font-smoothing: antialiased;
 	outline:0;
 }
@@ -30,8 +33,8 @@ body{
 	background-color:#f1f1f1;
 }
 p, li{
-	color:#595959;
-	font-size:16px;
+	color:#797979;
+	font-size:110%;
 }
 a img{
 	border:0;
@@ -39,6 +42,12 @@ a img{
 a{
 	text-decoration:none;
 	color:#015280;
+}
+p a{
+    color:#f9af00;
+    font-weight:bold;
+    padding-bottom: 2px;
+    border-bottom: 0.13em solid #f9ebca;
 }
 b{
 	color:#015280;
@@ -50,8 +59,8 @@ ul, li {
 }
 .universalContainer{
 	max-width:1600px;
-	border-left:solid 1px #E0E0E0;
-	border-right:solid 1px #E0E0E0;
+	border-left:solid 1px #e8e8e8;
+	border-right:solid 1px #e8e8e8;
 	margin:0 auto;
 	height:100%;
 	overflow:auto;
@@ -181,20 +190,19 @@ header.careersPageHeader .topLogo{
 	margin:0px;
 	font-weight:normal;
 	color:black;
-	font-size: 26px;
+	font-size: 20px;
 	line-height: 40px;
 }
 header.careersPageHeader{
 	position:fixed;
 	z-index:1000000 !important;
-	border-top:3px #015280 solid;
+	border-top:2px #04293F solid;
     top:0;
     width: 100%;
     z-index: 100;
 	border-left:solid 1px #E0E0E0;
 	border-right:solid 1px #E0E0E0;
-	background-color:white;
-	border-bottom:solid 1px #e0e0e0;
+	background-color:rgba(255,255,255,.98);
 	min-height:60px;
 	padding:20px 0 20px 0;
 	-webkit-box-shadow: 0px 2px 2px 0px rgba(0,0,0,0.05);
@@ -264,12 +272,19 @@ button:hover{
 	background-color:#004f9f;
 }
 button.headerButton{
-	background-color:#015280;;
+	background-color:#fff;
 	height:40px;
-	border-radius:0;
+	border-radius:2px;
+    border:2px solid #015280;
+    color:#015280;
+    font-weight:500;
 	display:inline-block;
 	width:29%;
 	margin-left: 2%;
+}
+button.headerButton:hover{
+    border:2px solid #015280;
+    color:white;
 }
 button.resumeButton{
 	margin: 20px 0;
@@ -410,19 +425,19 @@ header.careersPageHeader .topLogo, nav.careersPageNav{
 	float:left;
 }
 .headerQuote.blue{
-	background-color:#015280;
+	background-color:rgba(1,82,128,.85);
 }
 .headerQuote.yellow{
-	background-color:#f9af00;
+	background-color:rgba(249,175,0,.85);
 }
 .headerQuote.green{
-	background-color:#0AC29D;
+	background-color:rgba(10, 187, 194, 0.85);
 }
 .headerQuote.purple{
-	background-color:#BB0069;
+	background-color:rgba(187,0,105,.85);
 }
 .headerQuote.indigo{
-	background-color:#800176;
+	background-color:rgba(128,1,118,.85);
 }
 .headerQuote h1{
 	margin:0;
@@ -451,11 +466,12 @@ header.careersPageHeader .topLogo, nav.careersPageNav{
 	overflow:hidden;
 }
 .mainContentTitle{
-	border-bottom:dashed 1px #c6c6c6;
+	border-bottom: 1px solid #f0f0f0;
 	width:100%;
-	font-size:28px;
+	font-size:200%;
 	color:#015280;
 	padding-bottom: 5px;
+    font-family: 'Roboto Slab', serif;
 }
 .mainContentCopy{
 	margin-top:10px;
@@ -476,13 +492,8 @@ header.careersPageHeader .topLogo, nav.careersPageNav{
 	font-style: italic;
 }
 .sideQuote.home{
-	color:#f9af00;	
-	border-left:solid 5px #015280;
-	padding:0 0 0 20px;
-}
-.sideQuote.careers{
 	color:#015280;	
-	border-left:solid 5px #f9af00;
+	border-left:solid 5px #015280;
 	padding:0 0 0 20px;
 }
 .floatClearer{
@@ -517,9 +528,9 @@ header.careersPageHeader .topLogo, nav.careersPageNav{
     transition: all 250ms linear;
 }
 .ContentContainerThirds:hover{
-	-webkit-box-shadow: 0px 0px 10px 1px rgba(128, 1, 118, 0.3);
-	-moz-box-shadow: 0px 0px 10px 1px rgba(128, 1, 118, 0.3);
-	box-shadow: 0px 0px 10px 1px rgba(128, 1, 118, 0.3);
+	-webkit-box-shadow: 0px 0px 10px 1px #d8d8d8;
+	-moz-box-shadow: 0px 0px 10px 1px #d8d8d8;
+	box-shadow: 0px 0px 10px 1px #d8d8d8;
 }
 .ContentContainerThirds.works{
 	padding:0px;
@@ -565,10 +576,13 @@ header.careersPageHeader .topLogo, nav.careersPageNav{
 	background-image:url(../img/9.jpg);
 }
 .thirdsTitle{
+    border-bottom:1px solid #f0f0f0;
+}
+.thirdsTitle, .thirdsTitle a{
 	font-size:20px;
-	border-bottom:1px solid #f0f0f0;
 	padding-bottom:10px;
 	margin-bottom:10px;
+    font-family: 'Roboto Slab', serif;
 }
 h1.sectionTitle{
 	font-weight:normal;
@@ -681,6 +695,12 @@ ul#imageslist, ul#imageslist li{
 /**************************************************************  MEDIA QUERIES - TABLET  **************************************************************/
 @media screen and (max-width:980px) {
 /**************************************************************  TABLET - HEADER  **************************************************************/
+* {
+    line-height: inherit;
+}
+p a{
+    border-bottom:none;
+}
 header.careersPageHeader .topLogo, nav.careersPageNav{
 	margin:10px 5px;
 	overflow:hidden;
@@ -707,8 +727,8 @@ header.careersPageHeader{
 	padding:0;
 }
 header.careersPageHeader .topLogo{
-	max-width:65px;
-	max-height:39px;
+	max-width:64px;
+	max-height:40px;
 	margin-top: 15px;
 }
 .mobileNavContainer{
@@ -736,7 +756,7 @@ nav.careersPageNav .menuButton{
 	display:inline-block;
 	width:18%;
 	text-align:center;
-	line-height:40px;
+	line-height:40px !important;
 	cursor:pointer;
 	text-decoration:none;
 	color:#999;
@@ -835,7 +855,7 @@ p, li{
 	font-size:16px;
 }
 .mainContentTitle{
-	font-size:20px;
+	font-size:150%;
 }
 nav.careersPageNav {
 	width: 42%;
